@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "quick-flame-342015",
+  "private_key_id": "a0dbf4bc0b468b508de674a178f0d5909b2596b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtTUcw9sFeI3xR\nvYkd0M+2BoSrQ2jxOpwu7eUPFZJlOQhJ9kJ9d/+ZP0Ns6w0WUD/GIWmSLxzDx9wJ\ncZPcbgVrHRsq/1qQmhZnIqD2hNxQXCSLF7y/oB19WLNMJ+dwOtHH3qumKzc54v5a\n9l9gWWYhtChRYCG7k4BJ0Bt+R+26vQO3P1MDHZNf6U+tDo0h+N9MvDNDIfESF8VX\nTm2W7tBNnjjuGhjD+fTsGP23UF8kn1b+JXBdi9NsrDv9JwVhEGH0Y45Gjdz7D6e5\nc60k8XNW/S5VkxBNIWXjKln4V9bQ+9mvz+Kv2Q+nRGlSpyMy4J8cLZJkHLROiDZX\n6casGK7nAgMBAAECggEAN+luxoVV7aFVQqn7yvrLiNahhv/Ao9NdAGcQN8Wl7bJw\n0iv5V7GXbUHT5xgOqNxLNwkgnmFEzoV0oDdclQmKBfzl/wFTnsOX5r5tYBuNWP/h\nal7GLqzh1sb/Udqt+K+BbxKQHpRixPJPTdme+97b7JPLTjXNrE7yXN4fgKaENHKu\nv+jon+BEUQL9tpjyHbpFfFMV5DzgksoVmVmTQKgryylTYojhnGLzvMPFsJfeCTJ9\neieNri0HUuKl8mVqSQpVH+G39GKHdOeKTzOIm2a9oVvxtgTPnX48Zqa+mEve/xTx\nHpwMNTvd83WGZiIhh/z8LgNSUqLeDT6aYiVfguGzwQKBgQDhSZd/sJQa01g5y0+8\nrMSgNLLEp84WNV05DihiSV68KOSvwgOh+bukJ/N8yHvcmFmfWAzeAL9AU2OzhNVS\nuEYIqfPQ9CPcSRR0hr4rA+bEcwNKRGWYp1VnxuBp93ffVukfn9uythmcXmaEx9Rq\nyJPBYAbSmkoyYuQ+WwxgcxwHpQKBgQDE7Wrk8P0SDl31gu+fdoHKyFCADLd3GdCg\nla1+u43MCh+L7zVP4rGTsxrqjc5spQ/hJTY2eF8Of7yoX2KwQa0FxV2IK0CxqiXT\n50gPK2niOZS7dYrFl3zV2sYMTEx1QwJa5zXS+Y2gPFRtKrthmnUb+rqNiv6R/3C8\nBcdkYRJ2mwKBgEZdCtFZ4FgkjFi4tHXUbDExZGhhlM+A6VXpoxlXmxwflZWDfkj3\ny/Bwfe8KWw1CFDPdd19bUmCP6wLlyQ7l+RG5qyonJpAlzxq5/ulGdawD1BI9HJI6\nKUWZavwNy8XYykUTU7YUhBk/rrtoAmM7tFJgYKEkiWoFUw5at5nkOev1AoGABIc9\nFQShnR+tc27OWclc1K/kgf1I3rk+PeMTOT3Q1edJsGsQu8SHttDAhrI6E+97vP6h\nD4GXFftD+E8xMsJf2ykdrHrqIuu5sPS5iHfEGIqga+sZBNAl87jzIudCPtQKotJ8\nP1yzsAKTImuAIY9ur/UFAyo2Dl9kVT6AxkMhLI8CgYAw9fOnk7CZQJlm5Gc+jwvc\nHGt50RIhUqY8YnxoECF8NZuMyLhlgs5UHwPUQoJRVQrBgNLcIV2Xr9j9JSHt6lyU\nwubuImBB3+ZaRU9xYxGu6nLSyEUhXMeAlHznPk2vF0Duh9HMU9+t59iw4ijmD7KG\nHTwhmF2RMUZnWoiG7iFYUw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "navid-alvi-ahsan@quick-flame-342015.iam.gserviceaccount.com",
+  "client_id": "107606574736215187970",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/navid-alvi-ahsan%40quick-flame-342015.iam.gserviceaccount.com"
+}

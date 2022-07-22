@@ -1,0 +1,7 @@
+87 Present in First Half
+72 Present in Second Half
+60 Present Full Time
+99 Present Overall
+0 ID were missing from the list
+The missing id are:
+Everyone is successfully added
